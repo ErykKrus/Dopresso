@@ -3,7 +3,7 @@
 Currently, calculating dosages and generating intake schedules requires using tools based on authers "experience" and reading forums.  
 To make consistent Psilocybin intake an easier, safer, and "accurate" experience, a research-backed approach has to be implemented.
 
-As always, feel free to contribute! (Ideas, work, research, programming, or whatever - all welcome :) )
+As always, feel free to contribute! Ideas, work, research, programming, or whatever - all welcome :)
 
 To-Do:  
 • Build dosage calculator that displays long-term intake schedule (1 Month - 1 Year).  
