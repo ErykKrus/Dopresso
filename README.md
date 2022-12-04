@@ -13,4 +13,5 @@ My primary focus for 2023 will be to create an Effective Intake Planner and begi
 
 Notables:  
 • All code and research contributions are reviewed by Eryk.  
-• We are extremely open to suggestions; feel free to share your ideas/criticisms/thoughts.  
+• We are extremely open to suggestions; feel free to share your ideas/questions/criticisms/thoughts.  
+• All contents of this repositiory are free for anyone to use, modify, distribute and etc, with appropriate credit provided to the project.
