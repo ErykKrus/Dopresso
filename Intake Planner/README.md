@@ -7,7 +7,7 @@ As always, feel free to contribute! Ideas, work, research, programming, or whate
 
 Notables:  
 • The Jupyter Notebook format was chosen because both research and code can be easily contained in one document.     
-• Python was used as, in my experience, it is one of the easiest languages for people to learn and understand. Also Pandas is great with data.
+• Python was selected as, in my experience, it is one of the easiest languages to learn and understand. Also Pandas is great with data.
 
 To-Do:  
 • Build dosage calculator that displays long-term intake schedule (1 Month - 1 Year).  
